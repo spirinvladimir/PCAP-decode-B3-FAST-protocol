@@ -1,0 +1,23 @@
+{
+  "name": "trading-produce-tech-lead",
+  "version": "1.0.0",
+  "description": "Trading Product & Tech Lead (Arbitrage)",
+  "homepage": "https://github.com/spirinvladimir/trading-product-tech-lead-arbitrage#readme",
+  "bugs": {
+    "url": "https://github.com/spirinvladimir/trading-product-tech-lead-arbitrage/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spirinvladimir/trading-product-tech-lead-arbitrage.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "pcap-parser": "^0.2.1"
+  }
+}
